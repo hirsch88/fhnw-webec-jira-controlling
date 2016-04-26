@@ -11,9 +11,9 @@ Für Tablets und Desktop ausgelegt.
 - [TEMPO API](http://tempo.io/doc/timesheets/api/rest/latest/#1279953671)
 
 ###Team:
-- Gabriel Brunner
-- David Heimgartner
-- Gerhard Hirschfeld @hirsch88
+- Gabriel Brunner ([Brunn3r](https://github.com/Brunn3r))
+- David Heimgartner ([davidheimgartner](https://github.com/davidheimgartner))
+- Gerhard Hirschfeld ([hirsch88](https://github.com/hirsch88))
 
 ##Mockups
 [Mockups](./mockups.pdf)
