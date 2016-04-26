@@ -8,7 +8,7 @@ Für Tablets und Desktop ausgelegt.
 - [JIRA API](https://docs.atlassian.com/jira/REST/latest/#api/2/)
 - [TEMPO API](http://tempo.io/doc/timesheets/api/rest/latest/#1279953671)
 
-###Team:
+###Team
 - Gabriel Brunner ([Brunn3r](https://github.com/Brunn3r))
 - David Heimgartner ([davidheimgartner](https://github.com/davidheimgartner))
 - Gerhard Hirschfeld ([hirsch88](https://github.com/hirsch88))
