@@ -1,10 +1,24 @@
 # jira-controlling
-FHNW Webec 4iCbb Project
 
-#Mockups
+Projekt: JIRA Worklog Controlling
+
+In unsere DB werden die Projekt spezifischen Einstellungen gespeichert.
+Darstellung von Tabellen, Detail Ansichten und Graphen.
+Für Tablets und Desktop ausgelegt.
+
+###API's
+- [JIRA API](https://docs.atlassian.com/jira/REST/latest/#api/2/)
+- [TEMPO API](http://tempo.io/doc/timesheets/api/rest/latest/#1279953671)
+
+###Team:
+- Gabriel Brunner
+- David Heimgartner
+- Gerhard Hirschfeld (@hirsh88)
+
+##Mockups
 [Mockups](./mockups.pdf)
 
-#NFA
+##NFA
 | ID            | Name          |
 | ------------- |:--------------|
 | NFA_001       | Applikation muss auf Desktop und Tablet |
