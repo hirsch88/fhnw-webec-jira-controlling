@@ -18,7 +18,7 @@ Für Tablets und Desktop ausgelegt.
 
 ##NFA
 | ID            | Name          |
-| ------------- |:--------------|
+| :------------ |:--------------|
 | NFA_001       | Applikation muss auf Desktop und Tablet |
 | NFA_002       | Anwortzeit von dem PHP Backend Server soll unter 6sec sein |
 | NFA_003       | Das Design muss Responsive sein (FlexBox) |
