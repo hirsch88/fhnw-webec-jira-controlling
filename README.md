@@ -1,6 +1,4 @@
-# jira-controlling
-
-Projekt: JIRA Worklog Controlling
+# JIRA Worklog Controlling
 
 In unsere DB werden die Projekt spezifischen Einstellungen gespeichert.
 Darstellung von Tabellen, Detail Ansichten und Graphen.
