@@ -13,7 +13,7 @@ Für Tablets und Desktop ausgelegt.
 ###Team:
 - Gabriel Brunner
 - David Heimgartner
-- Gerhard Hirschfeld (@hirsh88)
+- Gerhard Hirschfeld @hirsch88
 
 ##Mockups
 [Mockups](./mockups.pdf)
