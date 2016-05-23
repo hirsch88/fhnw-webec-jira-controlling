@@ -1,5 +1,9 @@
 # JIRA Worklog Controlling
 
+# Deprecated! [Please go to the new repo](https://github.com/fhnw-students/fhnw-webec-controlling-frontend)
+
+
+
 In unsere DB werden die Projekt spezifischen Einstellungen gespeichert.
 Darstellung von Tabellen, Detail Ansichten und Graphen.
 Für Tablets und Desktop ausgelegt.
